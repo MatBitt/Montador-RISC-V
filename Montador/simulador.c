@@ -742,7 +742,7 @@ int main(){
   float tempo = 0.5;
   int contador = 0;
 
-  printf("Bem vindo! Qual codigo deseja roda?\n");
+  printf("Bem vindo! Qual codigo deseja rodar?\n");
   printf("Obs.: Nao ponha text.bin nem data.bin!\n");
   printf("Codigo: ");
 
